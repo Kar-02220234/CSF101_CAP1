@@ -1,4 +1,18 @@
-
+################################
+# Karma Letro
+# Intrumentation and Control Engineering (1ICE)
+# 02220234
+################################
+# REFERENCES
+#https://codefinity.com/get-started/spa/
+#https://docs.python.org/3/tutorial/introduction.html#text
+#https://www.youtube.com/watch?v=kqtD5dpn9C8
+#https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg
+################################
+# SOLUTION
+# Your Solution Score: 49226
+# Put your number here: 02220234
+################################
 # Function to read input data from a file and parse it into a list of tuples
 def read_input(file_name):
     file_path = "input_4_cap1.txt"
